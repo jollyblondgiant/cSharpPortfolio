@@ -12,3 +12,14 @@
 /home/andy/Documents/cdojo/c#/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.RazorTargetAssemblyInfo.cache
 /home/andy/Documents/cdojo/c#/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.dll
 /home/andy/Documents/cdojo/c#/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.pdb
+/home/andy/Documents/cdojo/c#/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.Views.dll
+/home/andy/Documents/cdojo/c#/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.Views.pdb
+/home/andy/Documents/cdojo/c#/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.TagHelpers.input.cache
+/home/andy/Documents/cdojo/c#/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.TagHelpers.output.cache
+/home/andy/Documents/cdojo/c#/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.RazorCoreGenerate.cache
+/home/andy/Documents/cdojo/c#/Portfolio/obj/Debug/netcoreapp2.1/Razor/Views/Index/Contact.g.cshtml.cs
+/home/andy/Documents/cdojo/c#/Portfolio/obj/Debug/netcoreapp2.1/Razor/Views/Index/Index.g.cshtml.cs
+/home/andy/Documents/cdojo/c#/Portfolio/obj/Debug/netcoreapp2.1/Razor/Views/Index/Projects.g.cshtml.cs
+/home/andy/Documents/cdojo/c#/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.RazorTargetAssemblyInfo.cs
+/home/andy/Documents/cdojo/c#/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.Views.pdb
+/home/andy/Documents/cdojo/c#/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.csproj.CopyComplete

@@ -1,0 +1,48 @@
+h1{
+    color: red;
+}
+#navbar{
+    margin: 20px auto;
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
+h2{
+    display: block;
+    margin: auto 20px;
+    text-align: center;
+}
+#info{
+    display: inline-block;
+    text-align: center;
+}
+#info *{
+    padding: 20px;
+    display: inline-block;
+    width: 45%;
+    text-align: center;
+}
+#info #faceName *{
+    color: red;
+    display: block;
+
+}
+img{
+    width: 200px;
+}
+#projects{
+    overflow-x: scroll;
+    height: 400px;
+    width: 30%;
+    margin: 0 auto;
+}
+#projects *{
+    display: inline-block;
+    
+}
+#projects .itemText *{
+    display: block;
+}
+.input{
+    margin: 10px;
+}
